@@ -1,0 +1,31 @@
+/* selcet by tag name
+p{
+    background-color:aquamarine
+           
+}
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text_large{
+    color :blue
+}
+.text_pink{
+    color: pink;
+}
+.box{
+    height: 600px;
+    width: 500px;
+} */
+/* 
+
+#box{
+    height: 600px;
+    width: 700px;
+    background-color: brown;
+} */
+.container.text{
+    color: pink;
+    font-size: 18px;
+}
+
